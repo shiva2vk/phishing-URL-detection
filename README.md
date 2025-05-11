@@ -194,7 +194,7 @@ This model provides a **hybrid lightweight alternative** to transformer-based ar
 
 ###  PHIUSIIL Phishing URL Dataset
 - UCI Link: https://data.mendeley.com/datasets/vfszbj9b36/1
-          : https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset?utm_source=chatgpt.com
+            : https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset?utm_source=chatgpt.com
 - Target: Multi-class (Phishing, Malware, Defacement, Benign)
 
 
