@@ -207,6 +207,3 @@ This model can be converted using TorchScript or ONNX for deployment on edge dev
 
 ---
 
-## Citation Suggestion
-
-If you adapt or extend this model, consider citing the following for reference inspiration:
